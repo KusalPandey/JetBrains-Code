@@ -10,7 +10,7 @@ class SmartCalculator:
                 print("Bye!")
                 exit(0)
             elif command == "help":
-                return '''This is a state of the art modern calculator made
+                return '''This is a state of the art modern calculator,
 Created to perform most type of calculations'''
 
     def storage(self, data):
